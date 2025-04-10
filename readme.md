@@ -22,16 +22,11 @@ A interface conta com dois principais blocos:
 - Estilo responsivo e centralizado para boa visualização.
 - Possibilidade de repetir o sorteio quantas vezes quiser.
 
-## 🗂 Estrutura de pastas
-
-📁 projeto-sorteador │ ├── index.html # Estrutura da página ├── style.css # Estilos personalizados ├── script.js # Lógica de sorteio └── img/ ├── logo.png ├── Shapes.png ├── Frame.png └── Vector (Stroke).png
-
 ## 💡 Como utilizar
 
 1. Clone ou baixe este repositório.
-2. Garanta que a pasta `img` esteja no mesmo nível dos arquivos HTML, CSS e JS.
-3. Abra o `index.html` no seu navegador.
-4. Clique em **"Sortear novamente"** e divirta-se!
+2. Abra o `index.html` no seu navegador.
+3. Clique em **"Sortear novamente"** e divirta-se!
 
 ## 📌 Observações
 
