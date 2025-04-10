@@ -38,7 +38,3 @@ A interface conta com dois principais blocos:
 - O sorteio é feito usando `Math.random()` e arredondamento com `Math.floor()`.
 - O número é sempre formatado com `padStart` para garantir dois dígitos.
 - O layout é construído com **CSS Grid** para manter o conteúdo alinhado.
-
-## 🙌 Agradecimentos
-
-Esse projeto foi criado com o apoio e orientação do ChatGPT, que ajudou em cada passo do caminho — desde a estrutura até a organização final.
