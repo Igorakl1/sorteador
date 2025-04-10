@@ -109,6 +109,10 @@ span {
   font-size: 3rem;
 }
 
+.numeros span {
+  color: #c58de7;
+}
+
 .sortear {
   display: flex;
   align-items: center;
